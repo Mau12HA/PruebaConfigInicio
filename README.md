@@ -1,6 +1,6 @@
 # PruebaConfigInicio
 
-Foobar is a Python library for dealing with word pluralization.
+Esta es una prueba para realizar un Readme
 
 ## Installation
 
